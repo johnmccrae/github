@@ -1,0 +1,366 @@
+{
+  "repositories": [
+    {
+      "name": "chef",
+      "url": "https://github.com/chef/chef",
+      "description": "Description of what this repository is for",
+      "language": "Ruby",
+      "status": "active",
+      "role": "owner",
+      "tags": ["web", "frontend", "react"],
+      "lastUpdated": "2025-07-30",
+      "notes": "Any additional notes about this repository"
+    },
+    {
+      "name": "ohai",
+      "url": "https://github.com/chef/ohai",
+      "description": "Another repository description",
+      "language": "Ruby",
+      "status": "active",
+      "role": "owner",
+      "tags": ["api", "backend", "flask"],
+      "lastUpdated": "2025-07-15",
+      "notes": "Working on bug fixes"
+    },
+    {
+      "name": "chef-winrm",
+      "url": "https://github.com/chef/knife",
+      "description": "Company project repository",
+      "language": "Ruby",
+      "status": "active",
+      "role": "owner",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "chef-cli",
+      "url": "https://github.com/chef/chef-cli",
+      "description": "Company project repository",
+      "language": "Ruby",
+      "status": "active",
+      "role": "owner",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "chef-powershell",
+      "url": "https://github.com/chef/chef-powershell-shim",
+      "description": "Company project repository",
+      "language": "C# C++, PowerShell",
+      "status": "active",
+      "role": "owner",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "chef-gyoku",
+      "url": "https://github.com/chef/chef-gyoku",
+      "description": "Company project repository",
+      "language": "Ruby",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "chef-winrm-elevated",
+      "url": "https://github.com/chef/chef-winrm-elevated",
+      "description": "Company project repository",
+      "language": "Ruby",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "chef-winrm-fs",
+      "url": "https://github.com/chef/chef-winrm-fs",
+      "description": "Company project repository",
+      "language": "Ruby",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "cookstyle",
+      "url": "https://github.com/chef/cookstyle",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "mixlib-shellout",
+      "url": "https://github.com/chef/mixlib-shellout",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "mixlib-log",
+      "url": "https://github.com/chef/mixlib-log",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "mixlib-config",
+      "url": "https://github.com/chef/mixlib-config",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    },
+    {
+      "name": "win32-certstore",
+      "url": "https://github.com/chef/win32-certstore",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    },
+    {
+      "name": "chef-win32-api",
+      "url": "https://github.com/chef/chef-win32-api",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "wmi-lite",
+      "url": "https://github.com/chef/wmi-lite",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "mixlib-cli",
+      "url": "https://github.com/chef/mixlib-cli",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "mixlib-archive",
+      "url": "https://github.com/chef/mixlib-archive",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "cmixlib-authentication",
+      "url": "https://github.com/chef/mixlib-authentication",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "ffi-yajl",
+      "url": "https://github.com/chef/ffi-yajl",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "ffi-libarchive",
+      "url": "https://github.com/chef/ffi-libarchive",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "win32-event",
+      "url": "https://github.com/chef/win32-event",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "win32-ipc",
+      "url": "https://github.com/chef/win32-ipc",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+        ,
+    {
+      "name": "win32-eventlog",
+      "url": "https://github.com/chef/win32-event",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+        ,
+    {
+      "name": "win32-mmap",
+      "url": "https://github.com/chef/win32-mmap",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+        ,
+    {
+      "name": "win32-mutex",
+      "url": "https://github.com/chef/win32-mutex",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+        ,
+    {
+      "name": "win32-process",
+      "url": "https://github.com/chef/win32-process",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "win32-service",
+      "url": "https://github.com/chef/win32-service",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "win32-taskscheduler",
+      "url": "https://github.com/chef/win32-taskscheduler",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+    ,
+    {
+      "name": "chef-zero",
+      "url": "https://github.com/chef/chef-zero",
+      "description": "Company project repository",
+      "language": "TypeScript",
+      "status": "active",
+      "role": "collaborator",
+      "tags": ["enterprise", "microservices", "node"],
+      "lastUpdated": "2025-07-28",
+      "notes": "Part of the main product suite"
+    }
+  ],
+  "metadata": {
+    "totalRepositories": 3,
+    "lastUpdated": "2025-07-30",
+    "categories": {
+      "personal": 2,
+      "work": 1,
+      "opensource": 0
+    },
+    "languages": {
+      "JavaScript": 1,
+      "Python": 1,
+      "TypeScript": 1
+    },
+    "statuses": {
+      "active": 2,
+      "maintenance": 1,
+      "archived": 0
+    }
+  }
+}
